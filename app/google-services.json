@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "462863496029",
+    "firebase_url": "https://vampromo-2bf1d.firebaseio.com",
+    "project_id": "vampromo-2bf1d",
+    "storage_bucket": "vampromo-2bf1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462863496029:android:145dc334891a49c9cd2eb4",
+        "android_client_info": {
+          "package_name": "com.example.vam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462863496029-75f3k0fn8tg2mjabji23m8kt2s4lsk5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8yaAJAOWTh7NEvyiKNTB0WUJ3D7PhStQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462863496029-75f3k0fn8tg2mjabji23m8kt2s4lsk5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
